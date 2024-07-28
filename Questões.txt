@@ -1,0 +1,110 @@
+1- Conjuntos numéricos. Crie um algoritmo que:
+Solicite ao usuário um número inteiro
+Imprima se “o número pertence ao conjunto dos números naturais”
+Números maiores que zero
+Ou se “o número pertence apenas ao conjunto dos números inteiros”
+Demais números
+
+2- Positivo, negativo ou nulo. Crie um algoritmo que:
+Solicite ao usuário um número inteiro
+Imprima se o número é positivo, negativo ou nulo
+
+3- Módulo do número. Crie um algoritmo que:
+Solicite ao usuário um número inteiro
+Imprima o módulo do número informado
+O módulo é o número sem a ocorrência do sinal (de positivo ou de negativo)
+
+4- Maior ou menor que dez. Crie um algoritmo que:
+Solicite ao usuário um número inteiro
+Imprima se esse número é maior, menor, ou igual a 10
+
+5- Maior ou menor que. Crie um algoritmo que:
+Solicite ao usuário dois números inteiros
+Imprima qual é o maior número, qual o menor número ou se são iguais
+
+6- Dia do mês. Crie um algoritmo que: 
+Solicite ao usuário um número do dia do mês
+Imprima se “o número escolhido está no início do mês”
+Até o dia 10 do mês
+Ou se “o número escolhido está no meio do mês”
+Do dia 11 ao dia 20
+Ou se “o número escolhido está no fim do mês”
+A partir do dia 21
+Ou se “o número escolhido é inválido”
+
+7- Vendedor. Crie um algoritmo que:
+Anuncie ao usuário que está vendendo (biscoito, bicicleta, etc.) por determinado preço (R$)
+Pergunte ao usuário quanto ele tem (R$)
+Se o usuário tiver dinheiro suficiente, imprima “Você quer comprar?”
+Se o usuário quiser comprar, imprima quanto sobra de dinheiro após a compra
+Senão, imprima “Ok! Fica para a próxima”
+Se o usuário não tiver dinheiro suficiente, imprima “Quer vir trabalhar comigo?”
+
+8- Mês do ano. Crie um algoritmo que:
+Solicite ao usuário um número de mês
+Por exemplo: 1 para Janeiro; 7 para Julho; 11 para novembro
+Imprima o nome do mês correspondente
+Ou se “o número não corresponde a qualquer mês do ano”
+
+9- Semestre do ano. Crie um algoritmo que:
+Solicite ao usuário um número de mês
+Por exemplo: 1 para Janeiro; 7 para Julho; 11 para novembro
+Imprima se “o mês correspondente está no primeiro semestre”
+Ou se “o mês correspondente está no segundo semestre”
+Ou se “o número não corresponde a qualquer mês do ano”
+
+10- Dia da semana #1. Crie um algoritmo que:
+Solicite ao usuário um número de dia da semana
+Por exemplo: 1 para domingo; 3 para terça-feira; 7 para sábado
+Imprima o nome do dia da semana correspondente
+Ou se “o número não corresponde a qualquer dia da semana”
+
+11- Dia da semana #2. Crie um algoritmo que:
+Solicite ao usuário um número de dia da semana
+Por exemplo: 1 para domingo; 3 para terça-feira; 7 para sábado
+Imprima se “o número corresponde a um dia da semana”
+Ou se “o número corresponde a um dia de fim semana”
+Ou se “o número não corresponde a qualquer dia da semana”
+
+12- Menu. Crie um algoritmo que:
+Imprima um menu, incluindo código: nome do item e preço
+Pergunte ao usuário o código do item que deseja
+Imprima o nome do item e o seu preço
+Exemplo do menu:
+****************************************************************
+* 1: Misto quente			R$ 3.00		*
+* 2: Cachorro-quente		R$ 4.00		*
+* 3: Bauru				R$ 5.50		*
+* 4: Suco				R$ 5.00		*
+* 5: Refrigerante lata		R$ 4.00		*
+**************************************| CÓDIGO: 
+
+13- Vogal ou consoante. Crie um algoritmo que:
+Solicite ao usuário uma letra (considere o alfabeto incluindo k, w e y)
+A letra informada pelo usuário pode ser minúscula ou maiúscula, certifique-se de ambos
+Considere que o usuário nunca informará letras com acentos
+Imprima se “a letra informada é uma vogal”
+Imprima se “a letra informada é uma consoante”
+
+14- Desenvolva um algoritmo que:
+- Crie um array de inteiros com 6 posições
+- Solicite ao usuário seis números e armazene esses números no array
+- Encontre e imprima o maior valor desse array
+
+15- Desenvolva um algoritmo que:
+- Crie um array de inteiros com 6 posições
+- Solicite ao usuário seis números e armazene esses números no array
+- Imprima a soma de todos números pares desse array
+- Imprima a soma de todos números ímpares desse array
+
+16- Contagem dos únicos. Desenvolva um algoritmo que:
+- Solicite ao usuário a quantidade de números que será informada
+- Crie um array de inteiros com a quantidade determinada pelo usuário
+- Solicite ao usuário os números e armazene esses números no array
+- Sua missão é imprimir quantos dos números informados não estão duplicados
+
+Ex.¹ Array com 4 posições, números: 1, 2, 1, 3
+- Apenas dois números são únicos
+
+Ex.² Array com 4 posições, números: 1, 2, 1, 2
+- Zero números são únicos
